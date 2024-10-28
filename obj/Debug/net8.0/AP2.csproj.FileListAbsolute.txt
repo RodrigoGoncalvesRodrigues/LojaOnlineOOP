@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\AP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\AP2.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\AP2.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\AP2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\AP2.sourcelink.json
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\bin\Debug\net8.0\AP2.exe
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\bin\Debug\net8.0\AP2.deps.json
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\bin\Debug\net8.0\AP2.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\bin\Debug\net8.0\AP2.dll
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\bin\Debug\net8.0\AP2.pdb
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\AP2.dll
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\refint\AP2.dll
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\AP2.pdb
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\AP2.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\Programação\LabProg\AP2\obj\Debug\net8.0\ref\AP2.dll
